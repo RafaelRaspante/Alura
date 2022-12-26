@@ -1,0 +1,16 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\A10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\A10-CalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\A10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.pdb
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe.config
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.pdb
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\A10-CalculaPoupanca.csproj.AssemblyReference.cache
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\A10-CalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\A10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.exe
+D:\Cursos\ApredendoCSharp\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.pdb

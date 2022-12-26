@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\bin\Debug\Múltiplos de 3.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\bin\Debug\Múltiplos de 3.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\bin\Debug\Múltiplos de 3.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\obj\Debug\Múltiplos de 3.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\obj\Debug\Múltiplos de 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\obj\Debug\Múltiplos de 3.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\obj\Debug\Múltiplos de 3.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\Múltiplos de 3\obj\Debug\Múltiplos de 3.pdb

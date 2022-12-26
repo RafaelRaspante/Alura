@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.pdb

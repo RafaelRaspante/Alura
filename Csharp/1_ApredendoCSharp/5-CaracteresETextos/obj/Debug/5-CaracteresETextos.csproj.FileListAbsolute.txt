@@ -1,0 +1,16 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.AssemblyReference.cache
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+D:\Cursos\ApredendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb

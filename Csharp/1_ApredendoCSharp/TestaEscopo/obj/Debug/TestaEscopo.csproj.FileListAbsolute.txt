@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\bin\Debug\TestaEscopo.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\bin\Debug\TestaEscopo.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\bin\Debug\TestaEscopo.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.pdb

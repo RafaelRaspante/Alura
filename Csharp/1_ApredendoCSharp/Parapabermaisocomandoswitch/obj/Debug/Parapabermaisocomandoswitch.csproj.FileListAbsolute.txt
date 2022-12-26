@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\bin\Debug\Parapabermaisocomandoswitch.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\bin\Debug\Parapabermaisocomandoswitch.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\bin\Debug\Parapabermaisocomandoswitch.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\obj\Debug\Parapabermaisocomandoswitch.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\obj\Debug\Parapabermaisocomandoswitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\obj\Debug\Parapabermaisocomandoswitch.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\obj\Debug\Parapabermaisocomandoswitch.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\Parapabermaisocomandoswitch\obj\Debug\Parapabermaisocomandoswitch.pdb

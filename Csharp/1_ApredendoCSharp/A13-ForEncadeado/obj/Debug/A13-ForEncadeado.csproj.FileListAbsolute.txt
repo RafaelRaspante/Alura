@@ -1,0 +1,16 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.pdb
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.exe.config
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.exe
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\bin\Debug\A13-ForEncadeado.pdb
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.AssemblyReference.cache
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.csproj.CoreCompileInputs.cache
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.exe
+D:\Cursos\ApredendoCSharp\A13-ForEncadeado\obj\Debug\A13-ForEncadeado.pdb

@@ -1,0 +1,16 @@
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\rafae\source\repos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.pdb
+D:\Cursos\ApredendoCSharp\Fatorial\bin\Debug\Fatorial.exe.config
+D:\Cursos\ApredendoCSharp\Fatorial\bin\Debug\Fatorial.exe
+D:\Cursos\ApredendoCSharp\Fatorial\bin\Debug\Fatorial.pdb
+D:\Cursos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
+D:\Cursos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+D:\Cursos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.exe
+D:\Cursos\ApredendoCSharp\Fatorial\obj\Debug\Fatorial.pdb

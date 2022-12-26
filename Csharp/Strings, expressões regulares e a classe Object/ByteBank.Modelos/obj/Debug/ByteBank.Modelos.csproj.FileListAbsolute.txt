@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\rafae\source\repos\Strings, expressões regulares e a classe Object\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
